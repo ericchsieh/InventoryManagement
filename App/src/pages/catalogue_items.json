@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Nvidia Geforce RTX 4090",
+        "model": "RTX 4090",
+        "insert_into": "Purchased_Asset",
+        "cost": 2099.99
+    },
+    {
+        "id": 2,
+        "name": "MATLAB",
+        "model": "R2021b",
+        "insert_into": "Software_License",
+        "cost": 139.99
+    },
+    {
+        "id": 33,
+        "name": "test",
+        "model": "test2",
+        "insert_into": "Purchased_Asset",
+        "cost": 6.90
+    }
+]

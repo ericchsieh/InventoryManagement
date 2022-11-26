@@ -1,0 +1,16 @@
+{
+    "TICKET_NUMBER": "Ticket #",
+    "STATUS": "Status",
+    "DATE_CREATED": "Date Created",
+    "DATE_RESOLVED": "Date Resolved",
+    "FULL_NAME": "Submitted By",
+    "INV_NUMBER": "Inventory #",
+    "COST": "Cost",
+    "NAME": "Name",
+    "MODEL": "Model",
+    "LICENSE_CODE": "License Code",
+    "TYPE": "Type",
+    "SPECIFICATION": "Specification",
+    "WATTAGE": "Wattage",
+    "SERIAL_NUMBER": "Serial Number"
+}
