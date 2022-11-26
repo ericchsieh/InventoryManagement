@@ -12,7 +12,8 @@ function Navbar() {
                         <li class="nav-item"><a class="nav-link" href="/departments">Departments</a></li>
                     </ul>
                     <ul class="navbar-nav ms-auto mt-2">
-                            <li class="nav-item"><a class="nav-link" href="/">Log Out</a></li>
+                        <li class="nav-item"><a class="btn btn-primary mx-2 mb-2" href="/submit_ticket">Submit Ticket</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/">Log Out</a></li>
                     </ul>
                 </div>
             </div>
