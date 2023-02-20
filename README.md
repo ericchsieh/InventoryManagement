@@ -116,6 +116,9 @@ Everyone is doing end-to-end. Specific tasks are:
 * `phone_number` attribute is limited to varchar(15) since international standard only supports up to 15 characters
 * not sure why there is no underline in markdown but some of the bolded fields are supposed to be underlines instead to indicate primary key
 
+<img width="2056" alt="Screenshot 2023-02-03 at 6 49 36 PM" src="https://github.com/ericchsieh/InventoryManagement/issues/2#issue-1591164821">
+
+
 ## Screenshots
 <img width="2056" alt="Screenshot 2023-02-03 at 6 49 36 PM" src="https://user-images.githubusercontent.com/41222244/219901885-a0f13b89-b844-4df9-ac8d-6b83516ab9e7.png">
 <img width="2056" alt="Screenshot 2023-02-03 at 6 50 45 PM" src="https://user-images.githubusercontent.com/41222244/219901890-e0f08e7d-aca1-4833-acaa-49ca6aaa1966.png">
