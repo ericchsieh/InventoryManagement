@@ -120,7 +120,7 @@ Everyone is doing end-to-end. Specific tasks are:
 <img width="800" alt="ER Diagram" src="https://user-images.githubusercontent.com/41222244/220016200-d7fbe52d-83ce-48f6-bfdb-426195bf9abb.jpeg">
 
 ## Screenshots
-<img width="1000" alt="Screenshot 2023-02-03 at 6 49 36 PM" src="https://user-images.githubusercontent.com/41222244/219901885-a0f13b89-b844-4df9-ac8d-6b83516ab9e7.png">
+<img width="700" alt="Screenshot 2023-02-03 at 6 49 36 PM" src="https://user-images.githubusercontent.com/41222244/219901885-a0f13b89-b844-4df9-ac8d-6b83516ab9e7.png">
 <img width="2056" alt="Screenshot 2023-02-03 at 6 50 45 PM" src="https://user-images.githubusercontent.com/41222244/219901890-e0f08e7d-aca1-4833-acaa-49ca6aaa1966.png">
 <img width="2056" alt="Screenshot 2023-02-03 at 6 52 08 PM" src="https://user-images.githubusercontent.com/41222244/219901892-51a9f727-0af9-4704-ac13-abc9836a874d.png">
 <img width="2056" alt="Screenshot 2023-02-03 at 6 52 17 PM" src="https://user-images.githubusercontent.com/41222244/219901902-7986c899-453f-47fa-ae5d-327689869cee.png">
