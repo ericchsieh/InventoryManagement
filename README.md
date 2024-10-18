@@ -2,7 +2,6 @@
 ### Group Members
 Andy Shen, Eric Hsieh, Serdar Hasan
 
-NOTE: Serdar has commits with two accounts
 ### Project Mentor
 Jean
 ## What it does
