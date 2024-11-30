@@ -92,15 +92,6 @@ Key: <u>primary key</u>, **unique**, *not null*
 ### Dec:
 - Suggestions and changes implemented to finalize bugs/bad design choices
 
-
-## Task Breakdown
-
-Everyone is doing end-to-end. Specific tasks are:
-
-- Andy: Asset purchasing page
-- Serdar: User creation/access
-- Eric: Ticket submission
-
 ## Architecture and Framework
 - Front-end using Bootstrap and REACT.js
 - Back-end using PHP and Oracle Database
