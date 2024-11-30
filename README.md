@@ -1,6 +1,6 @@
 # IT Help Desk Model
-### Group Members
-Andy Shen, Eric Hsieh, Serdar Hasan
+### Developers
+Eric Hsieh, Andy Shen, Serdar Hasan
 
 ### Project Mentor
 Jean
